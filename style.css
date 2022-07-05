@@ -1,0 +1,39 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #575757;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 60px;
+    font-weight: 600;
+}
+.orange{
+    color: #FBA24F;
+}
+.top-head{
+    width: auto;
+    height: 200px;
+    display: flex;
+    margin: 3%;
+    padding: 2%;
+
+}
+.half-width{
+    width: 47%;
+    
+}
+.half-width img{
+    width: 100%;
+}
+.top-head p{
+    margin-bottom: 50px;
+}
+.button{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(to bottom right,#FBA24F, #FF1E1E);
+    padding: 20px 60px;
+    border-radius: 10px;
+}
